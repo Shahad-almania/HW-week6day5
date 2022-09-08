@@ -1,0 +1,15 @@
+body{
+  background-color: rgb(175, 186, 196);
+
+}
+p{
+  color: rgb(43, 80, 128);
+}
+img{
+  width: 15%;
+  margin: 1rem; 
+}
+.input-group{
+  width: 50%;
+  align-items: center;  
+}
